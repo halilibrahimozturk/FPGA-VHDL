@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Windows/System32/vhdl_iterative_divider/test_isim_beh.exe" -prj "C:/Windows/System32/vhdl_iterative_divider/test_beh.prj" "work.test" 

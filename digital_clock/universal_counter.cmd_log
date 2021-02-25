@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Windows/System32/digital_clock/universal_counter.xst" -ofn "C:/Windows/System32/digital_clock/universal_counter.syr" 
+xst -intstyle ise -ifn "C:/Windows/System32/digital_clock/universal_counter.xst" -ofn "C:/Windows/System32/digital_clock/universal_counter.syr" 

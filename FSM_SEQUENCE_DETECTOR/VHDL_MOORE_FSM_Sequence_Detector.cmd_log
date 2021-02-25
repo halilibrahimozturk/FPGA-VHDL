@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "C:/Windows/System32/FSM_SEQUENCE_DETECTOR/VHDL_MOORE_FSM_Sequence_Detector.xst" -ofn "C:/Windows/System32/FSM_SEQUENCE_DETECTOR/VHDL_MOORE_FSM_Sequence_Detector.syr" 
+xst -intstyle ise -ifn "C:/Windows/System32/FSM_SEQUENCE_DETECTOR/VHDL_MOORE_FSM_Sequence_Detector.xst" -ofn "C:/Windows/System32/FSM_SEQUENCE_DETECTOR/VHDL_MOORE_FSM_Sequence_Detector.syr" 
+netgen -intstyle ise -ar Structure -tm VHDL_MOORE_FSM_Sequence_Detector -w -dir netgen/synthesis -ofmt vhdl -sim VHDL_MOORE_FSM_Sequence_Detector.ngc VHDL_MOORE_FSM_Sequence_Detector_synthesis.vhd 
+xst -intstyle ise -ifn "C:/Windows/System32/FSM_SEQUENCE_DETECTOR/VHDL_MOORE_FSM_Sequence_Detector.xst" -ofn "C:/Windows/System32/FSM_SEQUENCE_DETECTOR/VHDL_MOORE_FSM_Sequence_Detector.syr" 

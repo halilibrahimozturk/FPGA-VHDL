@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Windows/System32/combinational_logic_design/top_module.xst" -ofn "C:/Windows/System32/combinational_logic_design/top_module.syr" 

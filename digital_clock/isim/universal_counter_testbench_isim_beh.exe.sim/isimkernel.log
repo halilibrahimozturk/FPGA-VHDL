@@ -1,0 +1,29 @@
+Command line:
+   universal_counter_testbench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  59163
+
+Wed Dec 02 22:55:51 2020
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 4678.3 Meg
+
+ Total Signals          : 11
+ Total Nets             : 68
+ Total Signal Drivers   : 5
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 3
+ Total Traceable Variables  : 14
+ Total Scalar Nets and Variables : 552
+Total Line Count : 15
+
+ Total Simulation Time: 0.078125 sec
+
+ Current Memory Usage: 4678.3 Meg
+
+Wed Dec 02 22:59:37 2020
+

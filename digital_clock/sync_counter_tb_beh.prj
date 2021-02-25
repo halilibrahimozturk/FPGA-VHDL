@@ -1,0 +1,2 @@
+vhdl work "universal_counter.vhd"
+vhdl work "updown_count.vhd"

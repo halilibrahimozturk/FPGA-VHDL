@@ -1,0 +1,5 @@
+work	"Find_X.vhd"
+work	"Find_Y.vhd"
+work	"Find_Z.vhd"
+work	"MUX.vhd"
+work	"top_module.vhd"

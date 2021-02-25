@@ -1,0 +1,31 @@
+Command line:
+   test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52240
+
+Thu Jan 07 04:43:18 2021
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5150.11 Meg
+
+ Total Signals          : 34
+ Total Nets             : 121
+ Total Signal Drivers   : 18
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 7
+ Total Traceable Variables  : 16
+ Total Scalar Nets and Variables : 607
+In process iterative_divider.vhd:115 
+ Target Size 9 and source size 8 for array dimension 0 does not match. 
+
+
+ Total Simulation Time: 0.078125 sec
+
+ Current Memory Usage: 5150.11 Meg
+
+Thu Jan 07 04:43:26 2021
+

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Windows/System32/FSM_SEQUENCE_DETECTOR/top.xst" -ofn "C:/Windows/System32/FSM_SEQUENCE_DETECTOR/top.syr" 
